@@ -13,8 +13,7 @@ export default function Home() {
           I farms things that makes sense to me through code and design.
         </p>
         <div className="flex items-right justify-end -mr-1">
-          <Link href="https://kinfish.farmui.com" className="group uppercase font-mono tracking-tighter text-white hover:no-underline relative ease-in after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:translate-y-[3px] after:rounded-full after:dark:bg-zinc-50 after:bg-white after:opacity-0 after:duration-300 after:content-[''] hover:after:-translate-y-1 hover:after:opacity-100 px-[1px] pb-0 text-sm sm:text-sm md:text-[14px] mt-2">
-
+          <Link href="https://kinfish.farmui.com" className="group uppercase font-mono tracking-tighter text-white hover:no-underline relative ease-in after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:translate-y-[3px] after:rounded-full after:dark:bg-zinc-50 after:bg-white after:opacity-0 after:duration-300 after:content-[''] hover:after:-translate-y-1 hover:after:opacity-100 px-[0px] pb-0 text-sm sm:text-sm md:text-[14px] mt-2">
             Get in touch
             <ArrowUpRight className="inline w-5 mb-1 h-5 group-hover:-translate-y-0.5 transition-all duration-700" />
           </Link>
