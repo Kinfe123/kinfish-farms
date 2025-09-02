@@ -5,8 +5,8 @@ import { ArrowUpRight } from "lucide-react";
 export default function Home() {
   return (
     <div className="min-h-screen w-full overflow-hidden relative">
-      <div className="absolute top-1/2 left-1/2 w-full overflow-hidden -translate-x-1/2 -translate-y-1/2 z-[999] px-4 sm:px-6 lg:px-8">
-        <div className="text-left max-w-[90%] sm:max-w-4xl mx-auto">
+      <div className="absolute top-1/2 left-1/2  -translate-x-1/2 -translate-y-1/2 z-[999] px-0 sm:px-6 lg:px-8">
+        <div className="max-w-[90%] sm:max-w-full text-left mx-auto">
           <p className="mb-2 -mt-20 sm:-mt-40 text-4xl sm:text-6xl lg:text-7xl leading-none font-semibold tracking-tighter text-white">
             KiNFiSH FARMS.
           </p>
