@@ -7,7 +7,7 @@ export default function Home() {
     <div className="min-h-screen w-full overflow-hidden relative">
       <div className="absolute top-1/2 left-1/2 w-full sm:w-auto -translate-x-1/2 -translate-y-1/2 z-[999] px-0 sm:px-6 lg:px-8">
         <div className="max-w-[80%] sm:max-w-full text-left mx-auto">
-          <p className="mb-2 -mt-20 sm:-mt-40 text-4xl sm:text-6xl lg:text-7xl leading-none font-semibold tracking-tighter text-white">
+          <p className="mb-2 -mt-20 sm:-mt-40 text-2xl sm:text-6xl lg:text-7xl leading-none font-semibold tracking-tighter text-white">
             KiNFiSH FARMS.
           </p>
           <p className="bg-black/30 p-2 sm:p-3 text-base sm:text-xl leading-tight sm:leading-none font-semibold tracking-tighter text-white rounded-none">
