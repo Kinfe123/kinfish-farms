@@ -10,7 +10,7 @@ export default function Home() {
           <p className="mb-2 -mt-20 sm:-mt-40 text-4xl sm:text-6xl lg:text-7xl leading-none font-semibold tracking-tighter text-white">
             KiNFiSH FARMS.
           </p>
-          <p className="bg-black/30 p-2 sm:p-3 text-base sm:text-xl leading-tight sm:leading-none font-semibold tracking-tighter text-white rounded-sm">
+          <p className="bg-black/30 p-2 sm:p-3 text-base sm:text-xl leading-tight sm:leading-none font-semibold tracking-tighter text-white rounded-none">
             I farms things that makes sense to me through code and design.
           </p>
           <div className="flex items-center justify-end mt-4 sm:mt-2 -mr-0 sm:-mr-1">
